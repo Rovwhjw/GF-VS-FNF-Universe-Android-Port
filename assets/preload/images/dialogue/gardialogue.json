@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		160,
+		50
+	],
+	"scale": 1.35,
+	"animations": [
+		{
+			"loop_name": "gar Default instance 10000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gar Default instance 10000",
+			"anim": "default",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "gar Alt instance 10000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gar Alt instance 10000",
+			"anim": "defaultalt",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "gar Nervous Enter instance 10000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gar Nervous Enter instance 10000",
+			"anim": "garnerves",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "gar Ghost Enter instance 10000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gar Ghost Enter instance 10000",
+			"anim": "garghost",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "gar Dippy Enter instance 10000",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "gar Dippy Enter instance 10000",
+			"anim": "garghosty",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "gardialogue"
+}
